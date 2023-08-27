@@ -1,8 +1,8 @@
 {
-  "name": "react-homework-template",
+  "name": "react-project-phonebook",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vovalyapota.github.io/goit-react-hw-08-phonebook/",
+  "homepage": "https://vovalyapota.github.io/Phonebook/",
   "dependencies": {
     "@chakra-ui/icons": "^2.1.0",
     "@chakra-ui/react": "^2.8.0",
